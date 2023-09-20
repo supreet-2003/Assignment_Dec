@@ -13,5 +13,8 @@ int main(){
 	else{
 		printf("The number is not a Palindrome");
 	}
+	else {
+	 printf(" ");
+	}
 	return 0;
 }
